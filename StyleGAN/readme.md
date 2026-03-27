@@ -4,7 +4,8 @@
 
 ## Overview
 
-This is a PyTorch implementation of the **StyleGAN** architecture, trained on the `wiki-art` dataset.
+This is a PyTorch implementation of the **StyleGAN** architecture, trained on the `wiki-art` dataset of predominantely landscape and potrait paintings resized to 64x64.
+
 ![Generated Art](gen_imgs.png)
 
 ## Architecture Deep-Dive
