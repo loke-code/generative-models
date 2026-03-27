@@ -6,7 +6,7 @@
 
 This is a PyTorch implementation of a Variational Autoencoder (VAE) designed for the generation of synthetic medical images, specifically Chest X-Rays. Utilizing the publicly available Kaggle "Chest X-Ray Images (Pneumonia)" dataset, the model is evaluated using quantitative metrics such as Fréchet Inception Distance (FID) and Inception Score (IS).
 
-
+![Generated Art](generated_images.png)
 
 ## Architecture Deep-Dive
 
