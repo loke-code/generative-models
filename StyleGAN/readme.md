@@ -5,7 +5,7 @@
 ## Overview
 
 This is a PyTorch implementation of the **StyleGAN** architecture, trained on the `wiki-art` dataset.
-<img src="images/your_generated_grid.png" width="500" />
+![Generated Art](gen_imgs.png)
 
 ## Architecture Deep-Dive
 
